@@ -1,0 +1,37 @@
+﻿query_id,query,retrieved_count,retrieval_seconds,generation_seconds,llm_success,citation_present,citation_valid,references,answer,error
+Q01,Recommend a magical family adventure with fantasy and mystery.,5,0.04,36.022,False,True,True,"1,2,3","Here are the closest movies from the available catalog:
+
+**The NeverEnding Story III [1]** — Family | Fantasy | Adventure
+
+**Jumanji [2]** — Adventure | Fantasy | Family
+
+**The Amazing Panda Adventure [3]** — Adventure | Drama | Family",Generated answer has missing or invalid source references.
+Q02,I want a romantic drama about relationships and emotional conflict.,5,0.211,36.372,True,True,True,"1,2,3","Okay, I understand. Here are three romantic drama movies that fit your request for a relationship-focused film with emotional conflict, based on the retrieved evidence:
+
+1.  **Grumpier Old Men** (1995-12-22) - *Genres: Romance | Comedy* - This movie centers on a family feud and a rekindling of old feelings, offering a compelling narrative of relationships and conflict. [1]
+2.  **Flirting with Disaster** (1996-03-22) - *Genres: Comedy* - This comedy explores the complexities of relationships and the challenges of finding love, featuring a dysfunctional family and a lot of mishaps. [2]
+3.  **French Twist** (1995-01-18) - *Genres: Comedy | Romance* - This film delves into the complexities of love and betrayal, with a strong focus on the emotional fallout of a scorned wife and a complicated affair. [3]
+
+Would you like me to provide more information about any of these movies, or perhaps suggest a fourth option?",
+Q03,"Find a crime thriller involving danger, criminals and suspense.",5,0.039,37.212,True,True,True,"1,2","Here are three movie recommendations based on your request for a crime thriller involving danger, criminals, and suspense:
+
+1.  **Things to Do in Denver When You're Dead** (1995-12-01) - Genre: Drama | Crime
+    *   [1] This film explores the lives of five criminals who are facing imminent death after a botched job.
+    *   [2] It’s a compelling drama with a focus on the consequences of criminal actions.
+
+2.  **The Usual Suspects** (1995-07-19) - Genre: Drama | Crime | Thriller
+    *   [1] This film centers around a group of criminals who are involved in a complex and unsettling plot.
+    *   [2] The narrative unfolds through a series of interviews, revealing the events that led to the criminals' predicament.
+
+3.  **Amateur** (1994-08-05) - Genre: Crime | Comedy | Drama
+    *   [1] This film follows a man who wakes up in an alley with no memory of his past, and is befriended by a charitable ex-nun.
+    *   [2] It’s a suspenseful story about a man's struggle for survival and the secrets he uncovers.
+
+Would you like me to provide more information about any of these movies, or perhaps suggest a fourth?",
+Q04,Recommend a funny movie about friendship and everyday life.,5,0.048,48.751,False,True,True,"1,2,3","Here are the closest movies from the available catalog:
+
+**If Lucy Fell [1]** — Comedy | Romance
+
+**Waiting to Exhale [2]** — Comedy | Drama | Romance
+
+**Flirting with Disaster [3]** — Comedy",Generated answer has missing or invalid source references.

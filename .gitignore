@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local files
+.DS_Store
+.vscode/
+*.log
+
+# Temporary data
+data/temp/
+data/cache/
+
+# Model backups and staging
+models/backups/
+models/staging_500/

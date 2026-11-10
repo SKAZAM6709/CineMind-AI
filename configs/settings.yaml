@@ -1,0 +1,8 @@
+project:
+  name: rag-movie-recommendation
+  dataset: movielens-latest-small
+paths:
+  movielens_raw: data/raw/movielens
+  processed: data/processed
+  vector_store: data/vector_store
+# Future embedding / LLM parameters will be added when implemented.
